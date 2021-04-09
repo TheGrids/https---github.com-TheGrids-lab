@@ -3,8 +3,104 @@
      {
         "1":
         {
-            "firstName": "Daniil",
-            "lastName": "Borovoy"
+            "firstName": "Тимофей",
+            "lastName": "Баженов",
+            "grades":
+            {
+                "matanaliz": "3",
+                "philosophy": "4"
+            }
+            
+        },
+        "2":
+        {
+            "firstName": "Клим",
+            "lastName": "Андреев",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "3":
+        {
+            "firstName": "Вероника",
+            "lastName": "Грачева",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "4":
+        {
+            "firstName": "Амина",
+            "lastName": "Сотникова",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "5":
+        {
+            "firstName": "Алиса",
+            "lastName": "Баранова",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "6":
+        {
+            "firstName": "Ника",
+            "lastName": "Сорокина",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "7":
+        {
+            "firstName": "Елизваета",
+            "lastName": "Смирнова",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "8":
+        {
+            "firstName": "Кирилл",
+            "lastName": "Мельников",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "9":
+        {
+            "firstName": "Ксения",
+            "lastName": "Полякова",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
+        },
+        "10":
+        {
+            "firstName": "Лада",
+            "lastName": "Морозова",
+            "grades":
+            {
+                "matanaliz": "4",
+                "philosophy": "4"
+            }
         }
     }
 }
